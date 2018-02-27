@@ -16,7 +16,19 @@
        { "Tiendas": "casas", "Web": "https://sites.google.com/view/ofe/casas"  },
        { "Tiendas": "residencia", "Web": "https://sites.google.com/view/ofe/casas"  },
        { "Tiendas": "vivienda", "Web": "https://sites.google.com/view/ofe/casas"  },
-       { "Tiendas": "edificio", "Web": "https://sites.google.com/view/ofe/casas"  }
+       { "Tiendas": "edificio", "Web": "https://sites.google.com/view/ofe/casas"  },
+        
+       { "Tiendas": "calzado", "Web": "https://sites.google.com/view/ofe/zapatos"  },
+       { "Tiendas": "calzados", "Web": "https://sites.google.com/view/ofe/zapatos"  },
+       { "Tiendas": "calzado", "Web": "https://sites.google.com/view/ofe/zapatos"  },
+
+
+       { "Tiendas": "tenis", "Web": "https://sites.google.com/view/ofe/zapatos/tenis"  },
+
+       { "Tiendas": "zapatilla", "Web": "https://sites.google.com/view/ofe/zapatos/tenis"  },
+
+
+       { "Tiendas": "botas", "Web": "https://sites.google.com/view/ofe/zapatos/botas"  }
 
     ]
 
