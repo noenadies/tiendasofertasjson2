@@ -20,7 +20,7 @@
         
        { "Tiendas": "calzado", "Web": "https://sites.google.com/view/ofe/zapatos"  },
        { "Tiendas": "calzados", "Web": "https://sites.google.com/view/ofe/zapatos"  },
-       { "Tiendas": "calzado", "Web": "https://sites.google.com/view/ofe/zapatos"  },
+       { "Tiendas": "zapatos", "Web": "https://sites.google.com/view/ofe/zapatos"  },
 
 
        { "Tiendas": "tenis", "Web": "https://sites.google.com/view/ofe/zapatos/tenis"  },
@@ -28,8 +28,7 @@
        { "Tiendas": "zapatilla", "Web": "https://sites.google.com/view/ofe/zapatos/tenis"  },
 
 
-       { "Tiendas": "botas", "Web": "https://sites.google.com/view/ofe/zapatos/botas"  },
-       { "Tiendas": "zapatos", "Web": "https://sites.google.com/view/ofe/zapatos/botas"  }
+       { "Tiendas": "botas", "Web": "https://sites.google.com/view/ofe/zapatos/botas"  }
 
     ]
 
