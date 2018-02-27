@@ -19,11 +19,11 @@ function myFunction() {
  Tiendas= document.getElementById("Tiendas").value;
     //alert(Productostos);
 
-  alert(Tiendas);
+ 
   //if(Tiendas!=""&& Productos!=""){  ajaxProductostienda();}
- if(Productos!=""&&Tiendas==""){  alert(4444444);ajazProductos();}
+ if(Productos!=""&&Tiendas==""){  ajazProductos();}
 
- if(Tiendas!="" &&Productos==""){  alert("tiendas");ajaxTiendas();}
+ if(Tiendas!="" &&Productos==""){  ajaxTiendas();}
 
 
     
@@ -46,7 +46,7 @@ function ajaxProductostotienda(){
 data.inicio[i].Tiendasword
                         }) ;
                       //  j=data.inicio.uno;*/
-alert("buscando");
+
                       
                         var as=Object.keys(data.Productos);
                    
@@ -56,7 +56,7 @@ alert("buscando");
                    if (data.productos[i].Productostos==Tiendas){
   
   if (data.productos[i].Productostos==Productostos){
-alert(data.productos[i].Web);
+
 window.location =data.productos[i].Web;
 
                     }
@@ -91,7 +91,7 @@ function ajazProductos(){
 data.inicio[i].Tiendasword
                         }) ;
                       //  j=data.inicio.uno;*/
-alert("buscando11");
+
                       
                         var as=Object.keys(data.productos);
                    
@@ -101,7 +101,7 @@ alert("buscando11");
                  
   
   if (data.productos[i].Productos==Productos){
-alert(data.productos[i].Web);
+
 window.location =data.productos[i].Web;
                     }
                     
@@ -138,7 +138,7 @@ function ajaxTiendas(){
 data.inicio[i].Tiendasword
                         }) ;
                       //  j=data.inicio.uno;*/
-alert("buscando11ttt");
+
                       
                         var as=Object.keys(data.tiendas);
                    
@@ -148,7 +148,7 @@ alert("buscando11ttt");
                  
   
   if (data.tiendas[i].Tiendas==Tiendas){
-alert(data.tiendas[i].Web);
+
 window.location =data.tiendas[i].Web;
                     }
                     
