@@ -1,10 +1,16 @@
 {
     "tiendas": [
-       { "Tiendas": "t1", "Web": "https://www.youtube.com/watch?v=yoCtHylYx1E&feature=youtu.be"  },
-         { "Tiendas": "t2", "Web": "https://sites.google.com/view/ofe/p%C3%A1gina-principal?authuser=1"  }
-    
-        
-    
+     { "Tiendas": "t1", "Web": "https://www.youtube.com/watch?v=yoCtHylYx1E&feature=youtu.be"  },
+       { "Tiendas": "carros", "Web": "https://sites.google.com/view/ofe/autos"  },
+       { "Tiendas": "autos", "Web": "https://sites.google.com/view/ofe/autos"  },
+       { "Tiendas": "auto", "Web": "https://sites.google.com/view/ofe/autos"  },
+       { "Tiendas": "carro", "Web": "https://sites.google.com/view/ofe/autos"  },
+       { "Tiendas": "carros", "Web": "https://sites.google.com/view/ofe/autos"  },
+       { "Tiendas": "automóvil", "Web": "https://sites.google.com/view/ofe/autos"  },
+       { "Tiendas": "automovil", "Web": "https://sites.google.com/view/ofe/autos"  },
+       { "Tiendas": "vehiculo", "Web": "https://sites.google.com/view/ofe/autos"  },
+       { "Tiendas": "coche", "Web": "https://sites.google.com/view/ofe/autos"  },
+       { "Tiendas": "coches", "Web": "https://sites.google.com/view/ofe/autos"  }
 
     ]
 
