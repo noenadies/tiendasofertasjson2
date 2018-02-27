@@ -28,7 +28,8 @@
        { "Tiendas": "zapatilla", "Web": "https://sites.google.com/view/ofe/zapatos/tenis"  },
 
 
-       { "Tiendas": "botas", "Web": "https://sites.google.com/view/ofe/zapatos/botas"  }
+       { "Tiendas": "botas", "Web": "https://sites.google.com/view/ofe/zapatos/botas"  },
+       { "Tiendas": "zapatos", "Web": "https://sites.google.com/view/ofe/zapatos/botas"  }
 
     ]
 
