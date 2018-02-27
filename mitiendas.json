@@ -21,6 +21,7 @@
        { "Tiendas": "calzado", "Web": "https://sites.google.com/view/ofe/zapatos"  },
        { "Tiendas": "calzados", "Web": "https://sites.google.com/view/ofe/zapatos"  },
        { "Tiendas": "zapatos", "Web": "https://sites.google.com/view/ofe/zapatos"  },
+       { "Tiendas": "zapato", "Web": "https://sites.google.com/view/ofe/zapatos"  },
 
 
        { "Tiendas": "tenis", "Web": "https://sites.google.com/view/ofe/zapatos/tenis"  },
